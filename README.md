@@ -11,7 +11,7 @@
 ![](download.png)
 ---
 
-This *beginner* level data set has 2000 rows and 8 columns.
+This  data set has 2000 rows and 8 columns.
 The data set contains wifi signal strength observed from 7 wifi devices on a smartphone collected in indoor space. 
 The data could be used to estimate the location in one of the four rooms.
 
