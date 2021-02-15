@@ -8,7 +8,7 @@
 
 
 ---
-![](181.jpg)
+![](download.png)
 ---
 
 This *beginner* level data set has 2000 rows and 8 columns.
